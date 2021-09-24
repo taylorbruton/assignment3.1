@@ -11,3 +11,18 @@ p {
   margin: 40px;
   margin-right: 40px;
 }
+
+@media screen and (min-width: 600px) {
+  body {background-color: black;}
+
+}
+
+@media screen and (min-width: 800px) {
+  body {background-color: #6F6866;}
+  
+}
+  
+@media screen and (min-width: 1000px) {
+  body {background-color: #788585;}
+  
+}
