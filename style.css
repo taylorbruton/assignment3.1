@@ -1,0 +1,13 @@
+body {
+  background: #38302e;
+  color: #ccdad1;
+  font: 20px Baskerville;
+  text-align: center;
+}
+
+p {
+  outline: 3px solid white;
+  background-color: #788585;
+  margin: 40px;
+  margin-right: 40px;
+}
